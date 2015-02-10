@@ -8,6 +8,7 @@ V1.0 goals:
  - Expect 3 kinds of CSP headers as output (Strict, Optimal, Minimal)
  - Code written in Python
  - Applicaiton crawls the website, attempts to find all 3rd party images, scripts, frames etc and forms aforementioned CSP headers
+ - Application written in Python
  
 V2.0 goals:
    - Add UI
